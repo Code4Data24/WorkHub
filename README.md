@@ -1,4 +1,4 @@
-# Enterprise Task Management System
+# Project Management System
 
 A high-availability, multi-tenant workspace platform built using a decoupled Client–Server architecture inside a monorepo.
 
