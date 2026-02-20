@@ -31,7 +31,7 @@ const PORT = process.env.PORT || 5000;
 
 app.get("/", async (req, res) => {
   res.status(200).json({
-    message: "Welcome to TaskHub API",
+    message: "Welcome to WorkHub API",
   });
 });
 // http:localhost:500/api-v1/
