@@ -3,7 +3,7 @@
 A high-availability, multi-tenant workspace platform built using a decoupled Client–Server architecture inside a monorepo.
 
 Live: (https://work-hub-sand.vercel.app)
-For Demo , can use email vinanit727@esyline.com and password @Test1290
+For Demo , can login with email vinanit727@esyline.com and password @Test1290
 
 ---
 
